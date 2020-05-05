@@ -10,6 +10,7 @@ import java.util.Scanner;
 //(1,2,3), m n/3. Stacks are not overlapping each other. Leftmost
 //stack facing the left direction and other two stacks are facing in
 //the right direction.
+//https://github.com/deathm1/VITOLDSA/blob/master/threeStacksInOneStack.java
 
 public class tstos {
 
