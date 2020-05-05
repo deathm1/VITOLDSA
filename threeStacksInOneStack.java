@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 //Digital Assignment DSA VITOL
 //Author : Harsh Handoo
+//RegNo  : 17BEC0217
 //GitHub : death_m1
 //Write a program to implement a 3-stacks of size ‘m’ in an array
 //of size ‘n’ with all the basic operations such as IsEmpty(i),
