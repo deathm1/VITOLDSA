@@ -38,7 +38,11 @@ public class regnos {
 
     public void pop10Students(){
         //This function is going to pop out students in "last in first out" manner.
-        for (int i=digitalAssignmentSubmissions.length-1; i!=digitalAssignmentSubmissions.length-11; i--){
+        for (int i=digitalAssignmentSubmissions.length-1; i!=9; i--){
+            System.out.println("Student Assignment popped (" + i +") :" + digitalAssignmentSubmissions[i]);
+        }
+        System.out.println(" ");
+        for (int i=9; i!=-1; i--){
             System.out.println("Student Assignment Token (" + i +") :" + digitalAssignmentSubmissions[i]);
         }
     }
